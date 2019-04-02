@@ -1,2 +1,4 @@
-# CAASPP-2018-schools
-filtering CAASPP scores by public and charter schools
+# 2018 CAASPP Scores - Public/Charter Schools
+
+Parsing through data for a research project.
+Datasets can be found <a href="https://caaspp.cde.ca.gov/sb2018/ResearchFileList">here</a>.
